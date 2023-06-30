@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Fronte end <br>Estou a procura de estágio.
+Sou estudante de Front end <br>Estou a procura de estágio.
 
 
 # 💻 Tech Stack:
